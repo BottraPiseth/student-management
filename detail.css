@@ -1,0 +1,20 @@
+
+.card-title{
+	font-family: 'Roboto', sans-serif;				
+}
+.card-text{
+	
+	font-family: 'Roboto', sans-serif;		
+}
+.card-text-1{
+	font-family: 'Preahvihear', cursive;
+			
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+}
+
+
+
